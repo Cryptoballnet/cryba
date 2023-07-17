@@ -15,7 +15,7 @@ CRYPTOBALL - CRYBA
 
 - Website https://cryptoball.net
 
-### Rewards Breakdown
+### Rewards 
 
 |Block     |Collateral |Block Reward   |
 |--------- |-----------|---------------|
