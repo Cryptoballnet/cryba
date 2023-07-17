@@ -9,6 +9,7 @@ CRYPTOBALL - CRYBA
 - Block Time: 60 Seconds
 - Maturity: 10 Confirmations
 - Collateral: 25,000,000 Cryba
+- Rewards: 20% Staking / 80% Masternode
 - Ports: 22489 (p2p) / 22490 (rpc)
 
 - Explorer https://explorer.cryptoball.net
